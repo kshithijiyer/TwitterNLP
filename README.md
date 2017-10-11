@@ -1,5 +1,5 @@
 # TwitterNLP
-In this project we detected language of a given tweet through NLP packages and compared different packages avaliable for language detection.
+In this project, we detected language of a given tweet through NLP packages and compared different packages avaliable for language detection.
 
 ## Prerequisites
 1. R 3.x or Higher
