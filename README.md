@@ -4,7 +4,7 @@ In this project we detected language of a given tweet through NLP packages and c
 ## Prerequisites
 1. R 3.x or Higher
 2. RStudio 1.0.44 or Higher
-3. (Twitter Application credentials)[https://apps.twitter.com/app/new]
+3. [Twitter Application credentials](https://apps.twitter.com/app/new)
 4. Good internet connection
 
 ## Installation and usage 
