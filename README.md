@@ -1,10 +1,10 @@
 # TwitterNLP
-In this project we'll be detecting language of a given tweet through NLP packages and compare different packages avaliable for language detection.
+In this project we detected language of a given tweet through NLP packages and compared different packages avaliable for language detection.
 
 ## Prerequisites
 1. R 3.x or Higher
 2. RStudio 1.0.44 or Higher
-3. (Twitter Application credentials) [https://apps.twitter.com/app/new]
+3. (Twitter Application credentials)[https://apps.twitter.com/app/new]
 4. Good internet connection
 
 ## Installation and usage 
@@ -26,11 +26,11 @@ no.of.tweets <- 100
 4. Run the script and you'll see the results on the screen.
 
 ## Built with 
-1. [RStudio](https://www.rstudio.com/)
+[RStudio](https://www.rstudio.com/)
 
-## Author
+## Authors
 [Nidhi Pillai](https://in.linkedin.com/in/nidhi-pillai-291544149)
-[Kshithij Iyer](https://www.linkedin.com/in/kshithij-iyer/)
+ and [Kshithij Iyer](https://www.linkedin.com/in/kshithij-iyer/)
 
 ## Licence 
 The project is released under apache 2.0 licence.
