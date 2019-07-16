@@ -13,10 +13,10 @@
 #kshithijiyer@yahoo.co.in
 
 #Settings for Twitter Application Credentials
-consumer_key<-'5WEMduxG9eQii00obst2zdXpj'
-consumer_secret<-'n9iu6lsdPXsvzseCdGjV2Sl34ZTJ7RBPLLcaA9VLny4ZyIIIyI'
-access_token<-'796761081389662209-ePm8RL9GH0BXaROYpZriFRotMaa1Y35'
-access_token_secret<-'CshNpCSNfjDLmgKesx3C9kmqPkD9bYVtu0jSJEMnSx2ty'
+consumer_key<-''
+consumer_secret<-''
+access_token<-''
+access_token_secret<-''
 
 #Data extraction settings
 search.string <- "#edm"
